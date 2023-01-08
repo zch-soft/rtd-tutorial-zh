@@ -1,5 +1,5 @@
-Usage
-=====
+使用说明
+========
 
 .. _installation:
 
